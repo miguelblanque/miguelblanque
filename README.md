@@ -1,4 +1,4 @@
-- 👋 Hey I´m Miguel, Analyst Programmer at Viewnext, Falling in love whit tech
+- 👋 Hey I´m Miguel, Analyst Programmer, Falling in love whit tech
 -  I´m currently working on the Client Project of a bank
 -  I’m interested in Java, JavaScript, React, MuleStudio, PowerBI, Arduino
 - 🌱 I’m currently learning React
